@@ -67,7 +67,7 @@ v(s) = (출발행성으로부터의 거리)/(목표행성까지의 거리)³
 <a href="https://youtu.be/AIe3AMdqu2E" title="swingby 1"><img src="./pics/swingby_1.png" alt="Sample1" width='48%'/></a>
 <a href="https://youtu.be/1wrbo9SZe2k" title="swingby 2"><img src="./pics/swingby_2.png" alt="Sample2" width='48%'/></a>
 
-위 두 영상은 탐사선의 항법 중 하나인 swingby를 이용해서 목표행성에 도달한 예시이다. 중간에 있는 행성의 중력을 이용하여 가속한 뒤 목표행성까지 빠르게 도달한다.
+위 두 영상은 탐사선의 항법 중 하나인 swingby를 이용해서 목표행성에 도달한 예시이다. 중간에 있는 행성의 중력을 이용하여 가속한 뒤 목표행성까지 빠르게 도달한다. 알아서 swingby 항법을 터득하여 이용했다는 점이 놀라웠다.
 
 ### ✔ 성능 향상을 위해 사용한 기법
 
